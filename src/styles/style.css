@@ -1,0 +1,40 @@
+/**
+Mr : Dang Xuan Truong
+Email: truongdx@runsystem.net
+*/
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.3rem;
+  background-color: #f3f3f3;
+}
+
+button {
+  height: 2.5rem;
+  border: none;
+  font-size: 1.3rem;
+  border-bottom: 4px solid #ccc;
+  margin-left: 0.5rem;
+  cursor: pointer;
+  color: #5e5e5e;
+}
+
+.container {
+  font-size: 1.3rem;
+}
+
+.is-completed {
+  text-decoration: line-through;
+  color: #5e5e5e;
+}
+
+.tdl-input {
+  padding: 0.5rem;
+  margin: 1rem 0;
+}
+
+.tdl-task {
+  padding: 0.5rem;
+}
+
+/*# sourceMappingURL=style.css.map */
